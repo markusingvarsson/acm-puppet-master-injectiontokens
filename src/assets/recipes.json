@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Bolognese",
+    "ingredients": ["Spaghetti", "Tomato", "Onion", "Garlic", "Minced Meat", "Olive Oil"],
+    "steps": [
+      "Boil the spaghetti.",
+      "Meanwhile, fry the minced meat with onions and garlic.",
+      "Add tomato sauce and simmer.",
+      "Serve the sauce on top of spaghetti."
+    ],
+    "timestamp": "2023-05-22T16:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Chicken Caesar Salad",
+    "ingredients": ["Chicken Breast", "Romaine Lettuce", "Parmesan Cheese", "Croutons", "Caesar Dressing"],
+    "steps": [
+      "Grill the chicken breast and slice it.",
+      "Toss together lettuce, parmesan, and croutons.",
+      "Add dressing.",
+      "Top with sliced chicken."
+    ],
+    "timestamp": "2023-05-21T17:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Vegetarian Pizza",
+    "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella", "Bell Pepper", "Mushrooms", "Olives"],
+    "steps": [
+      "Roll out pizza dough.",
+      "Apply tomato sauce and sprinkle mozzarella.",
+      "Add bell pepper, mushrooms, and olives.",
+      "Bake in a preheated oven at 220C until cheese is melted and crust is golden."
+    ],
+    "timestamp": "2023-05-20T12:00:00Z"
+  }
+]
